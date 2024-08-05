@@ -1,6 +1,6 @@
 # Mi Aplicación Increíble
 
-![image]( screenshot)
+![image]( screenshot.png)
 
 ## Descripción
 Esta aplicación demuestra cómo integrar una escena de Spline en SwiftUI y crear una pantalla de inicio moderna con un botón de efecto cristal. Es un excelente punto de partida para aprender SwiftUI y personalizar la apariencia de una aplicación.
